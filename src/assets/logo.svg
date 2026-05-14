@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 776.1 134.9">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #6563ac;
+      }
+
+      .st1 {
+        fill: #231f20;
+        font-family: CalSans-Regular, 'Cal Sans';
+        font-size: 98px;
+        letter-spacing: 0em;
+      }
+
+      .st2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st2" x="121.8" y="1.5" width="43.2" height="127.6" rx="21.6" ry="21.6" transform="translate(72.3 -75.3) rotate(38.7)"/>
+    <rect class="st2" x="129" y="45.4" width="43.2" height="108.5" rx="21.6" ry="21.6" transform="translate(254.1 -48.3) rotate(91.5)"/>
+  </g>
+  <g>
+    <rect class="st0" x="49.4" y="3.4" width="43.2" height="127.6" rx="21.6" ry="21.6" transform="translate(50.9 -28.5) rotate(34.7)"/>
+    <rect class="st0" x="41.3" y="-21.9" width="43.2" height="108.5" rx="21.6" ry="21.6" transform="translate(92.6 -31.9) rotate(87.5)"/>
+  </g>
+  <text class="st1" transform="translate(251.1 97.2)"><tspan x="0" y="0">Task Logger</tspan></text>
+</svg>
